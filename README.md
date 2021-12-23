@@ -1,2 +1,1 @@
-# ground-penetrating-radar
-Ground penetrating radar signal analysis
+# Ground penetrating radar signal analysis
